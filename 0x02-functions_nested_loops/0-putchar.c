@@ -1,12 +1,4 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-int _putchar(char c);
-int main(void);
-
-#endif /* MAIN_H */
-
-#include <unistd.h>
+#include "main.h"
 
 /**
  * main - Entry point
